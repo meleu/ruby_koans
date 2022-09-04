@@ -1,4 +1,5 @@
 .project_env.rc
+.path_progress
 
 # Created by https://www.toptal.com/developers/gitignore/api/vim,visualstudiocode,emacs,linux,windows,macos,ruby
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,visualstudiocode,emacs,linux,windows,macos,ruby
